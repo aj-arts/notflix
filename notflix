@@ -5,7 +5,7 @@
 mkdir -p $HOME/.cache/notflix
 
 menu="dmenu -i -l 25"
-baseurl="https://1337x.wtf"
+baseurl="https://www.1377x.gd"
 cachedir="$HOME/.cache/notflix"
 
 if [ -z $1 ]; then
